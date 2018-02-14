@@ -30,7 +30,7 @@ class EmployeeDashboard < Administrate::BaseDashboard
   SHOW_PAGE_ATTRIBUTES = [
     :posts,
     :ssn,
-    :company.
+    :company,
     :email,
     :phone,
     :sign_in_count,
